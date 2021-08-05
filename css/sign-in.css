@@ -1,0 +1,38 @@
+
+.main-container{
+    display: flex;
+    justify-content: center;
+
+}
+.needs-validation{
+    margin-top: 5vh;
+}
+input[type=text]{
+    width: 50vw;
+}
+.form-group{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+    
+  }
+  
+.button2 
+{background-color: #0ba2d5;} /* Blue */
+
+.submitmsg{
+      font-size: 20px;
+      color: green;
+  }
+  
